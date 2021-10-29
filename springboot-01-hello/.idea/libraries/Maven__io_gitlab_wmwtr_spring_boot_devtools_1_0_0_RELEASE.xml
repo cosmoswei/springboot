@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: io.gitlab.wmwtr:spring-boot-devtools:1.0.0.RELEASE">
+    <CLASSES>
+      <root url="jar://D:/Environment/JAVA/apache-maven-3.6.3/maven_repository/io/gitlab/wmwtr/spring-boot-devtools/1.0.0.RELEASE/spring-boot-devtools-1.0.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/Environment/JAVA/apache-maven-3.6.3/maven_repository/io/gitlab/wmwtr/spring-boot-devtools/1.0.0.RELEASE/spring-boot-devtools-1.0.0.RELEASE-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/Environment/JAVA/apache-maven-3.6.3/maven_repository/io/gitlab/wmwtr/spring-boot-devtools/1.0.0.RELEASE/spring-boot-devtools-1.0.0.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
